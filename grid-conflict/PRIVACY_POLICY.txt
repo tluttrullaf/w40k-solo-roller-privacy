@@ -1,0 +1,58 @@
+GRID CONFLICT - PRIVACY POLICY
+Last updated: 12 September 2026
+
+1. SCOPE AND DEVELOPER
+
+This policy explains how Grid Conflict handles information in its Android game, including the current Alpha 1.1 release. Grid Conflict is developed and maintained by the developer using the GitHub account tluttrullaf ("we", "us"). This policy covers the game, not the independent services used to download it or send feedback.
+
+2. INFORMATION HANDLED BY THE GAME
+
+Grid Conflict can be played offline and does not require a player account. The current Android game does not automatically send personal information or gameplay records to us. It does not include advertising, advertising identifiers, third-party tracking or remote analytics services.
+
+The game stores information locally to provide its features. This includes game settings, saved matches, board state, move history, replay information and computer-player settings and diagnostics. Local game records can include timestamps and technical gameplay information. Local records are used to resume games, retain preferences, reproduce matches and investigate gameplay problems. They are not automatically uploaded.
+
+The current Android build does not request access to contacts, location, camera or microphone.
+
+3. OPTIONAL REPLAY SHARING AND FEEDBACK
+
+If you select the replay-copy feature, the game writes the selected match record to your device clipboard. Copying a replay does not send it to us. You choose whether to paste it into a message, file or other service.
+
+If you voluntarily contact us or send a bug report, we receive the information you submit, such as your contact details, message, screenshots, replay and any device details you provide. We use that information to respond, troubleshoot and improve Grid Conflict. Please avoid including sensitive personal information in reports.
+
+The service you use to send feedback processes that submission under its own privacy policy. Public comments or issue reports may be visible to others. Clipboard handling also depends on your operating system and settings.
+
+4. SHARING AND THIRD-PARTY SERVICES
+
+We do not sell personal information or use it for targeted advertising. The game does not automatically share its local saves or gameplay records with third parties.
+
+Information you voluntarily send may be processed by the communication or hosting providers used to receive and manage your report. We may disclose information where legally required or necessary to protect legal rights and security.
+
+Google Play and Android may independently process installation, purchase, diagnostic and usage information under Google's policies and your settings. We may receive reports or feedback made available through Google Play Console. This is separate from the game's local storage.
+Google Privacy Policy: https://policies.google.com/privacy
+
+GitHub processes visits to this policy page under its own privacy statement:
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+
+5. STORAGE, SECURITY, RETENTION AND DELETION
+
+Game saves and settings remain in the app's local storage until replaced, cleared or removed. To remove locally stored app data, use Android Settings, open Grid Conflict's app information, select Storage and clear the app's storage/data. Uninstalling normally removes app-private data. These actions erase saved progress and preferences.
+
+Copies you export, paste or send elsewhere are separate. Delete those copies from their destination, and clear your clipboard through your device's controls if needed. We cannot remotely erase files held only on your device or copies held by other recipients.
+
+Voluntarily submitted support information is retained only as long as reasonably needed to handle the request, investigate related issues or meet legal obligations. You may request deletion through the contact method below, subject to applicable legal requirements.
+
+Local app storage is protected by Android's application isolation and your device security. No storage or communication method is completely secure. Avoid sharing unnecessary personal information.
+
+6. CHILDREN
+
+The current game does not ask players for their age or knowingly collect children's personal information through gameplay. If you believe a child has submitted personal information to us through feedback or support, contact us so that we can review and delete it where appropriate.
+
+7. YOUR CHOICES AND CONTACT
+
+You can play without creating an account or sending feedback. You control whether to export and share match records.
+
+For privacy questions or requests concerning information you have sent us, use the developer support email shown under App support on Grid Conflict's Google Play listing. Identify Grid Conflict and describe your request. Do not send identity documents or sensitive information unless specifically necessary for an agreed verification process.
+
+8. CHANGES
+
+We may update this policy as Grid Conflict develops. The latest policy will be posted at this location with an updated date. Material changes to data handling will be explained through an appropriate notice, and consent obtained where required.
